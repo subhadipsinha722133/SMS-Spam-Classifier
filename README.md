@@ -22,7 +22,7 @@ A simple **Streamlit web application** that uses **Natural Language Processing (
 
 ## 📂 Project Structure  
 SMS-Spam-Classifier/ <br>
-|-- ms-spam-detection.ipynb # Apply all algorithm
+|-- ms-spam-detection.ipynb # Apply all algorithm<br>
 │-- app.py # Streamlit app script <br>
 │-- model.pkl # Trained ML model <br>
 │-- vectorizer.pkl # Fitted text vectorizer <br>
