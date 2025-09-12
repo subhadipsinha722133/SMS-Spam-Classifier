@@ -17,7 +17,6 @@ A simple **Streamlit web application** that uses **Natural Language Processing (
 - **Streamlit** - Web app framework  
 - **NLTK** - Natural Language Toolkit for text preprocessing  
 - **Scikit-learn** - Machine learning models  
-
 ---
 
 ## 📂 Project Structure  
