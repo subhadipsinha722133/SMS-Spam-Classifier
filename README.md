@@ -58,6 +58,8 @@ Copy code
 streamlit run app.py
 Then open the local URL provided in your browser (usually http://localhost:8501/).
 
+model.pkl file very large 119mb
+
 # 📊 Model Workflow
 Text preprocessing with NLTK
 
