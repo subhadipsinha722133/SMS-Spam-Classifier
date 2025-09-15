@@ -3,6 +3,10 @@
 A simple **Streamlit web application** that uses **Natural Language Processing (NLP)** and **Machine Learning (ML)** to classify SMS messages as **Spam** or **Ham (Not Spam)**.  
 
 ---
+## 📺 Live Demo
+🔗[Demo](https://subhadipsinha722133-6czxjynlrcg24rua5bwakx.streamlit.app/)
+
+---
 
 ## 🚀 Features  
 - Clean and interactive UI built with **Streamlit**  
