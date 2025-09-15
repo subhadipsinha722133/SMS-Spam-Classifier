@@ -1,3 +1,10 @@
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
 nltk
-sklearn
+wordcloud
+scikit-learn
+imbalanced-learn
+xgboost
