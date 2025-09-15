@@ -46,7 +46,7 @@ st.markdown("""
 This app analyzes SMS messages and classifies them as **spam** or **ham** (not spam) using machine learning.
 """)
 
-st.sidebar.image("Made By Subhadip🔥")
+st.sidebar.header("Made By Subhadip🔥")
 st.sidebar.title("Navigation")
 app_mode = st.sidebar.selectbox(
     "Choose a section",
