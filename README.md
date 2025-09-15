@@ -22,7 +22,7 @@ A simple **Streamlit web application** that uses **Natural Language Processing (
 ## 📂 Project Structure  
 SMS-Spam-Classifier/ <br>
 |-- ms-spam-detection.ipynb # Apply all algorithm<br>
-│-- app.py # Streamlit app script <br>
+│-- main.py # Streamlit app script <br>
 │-- model.pkl # Trained ML model <br>
 │-- vectorizer.pkl # Fitted text vectorizer <br>
 │-- requirements.txt # Project dependencies <br>
@@ -36,7 +36,7 @@ SMS-Spam-Classifier/ <br>
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/SMS-Spam-Classifier.git
+   git clone https://github.com/subhadipsinha722133/SMS-Spam-Classifier.git
    cd SMS-Spam-Classifier
 Create a virtual environment (optional but recommended):
 
@@ -86,9 +86,6 @@ Feature extraction using TF-IDF Vectorizer<br>
 
 **Output: Spam or Not Spam**
 
-
-# 🖥️ App Interface
-- 📸 Screenshots
 
 
 # 🤝 Contributing
