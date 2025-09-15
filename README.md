@@ -2,6 +2,24 @@
 
 A simple **Streamlit web application** that uses **Natural Language Processing (NLP)** and **Machine Learning (ML)** to classify SMS messages as **Spam** or **Ham (Not Spam)**.  
 
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![PyPI Version](https://img.shields.io/pypi/v/your-library-name?logo=pypi)](https://pypi.org/project/your-library-name/)
+[![Downloads](https://img.shields.io/pypi/dm/your-library-name)](https://pypi.org/project/your-library-name/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/subhadipsinha722133/SMS-Spam-Classifier)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/commits/main)
+[![Coverage Status](https://img.shields.io/codecov/c/github/subhadipsinha722133/SMS-Spam-Classifier)](https://codecov.io/gh/subhadipsinha722133/SMS-Spam-Classifier)
+[![Release](https://img.shields.io/github/v/release/subhadipsinha722133/SMS-Spam-Classifier)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/releases)
+[![Open Issues](https://img.shields.io/github/issues/subhadipsinha722133/SMS-Spam-Classifier)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/subhadipsinha722133/SMS-Spam-Classifier)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/pulls)
+[![Stars](https://img.shields.io/github/stars/subhadipsinha722133/SMS-Spam-Classifier?style=social)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/stargazers)
+[![Forks](https://img.shields.io/github/forks/subhadipsinha722133/SMS-Spam-Classifier?style=social)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/forks)
+[![Contributors](https://img.shields.io/github/contributors/subhadipsinha722133/SMS-Spam-Classifier)](https://github.com/subhadipsinha722133/SMS-Spam-Classifier/graphs/contributors)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://pre-commit.com/)
+[![Dependency Status](https://img.shields.io/librariesio/release/pypi/your-library-name)](https://libraries.io/pypi/your-library-name)
+
+
 ---
 ## 📺 Live Demo
 🔗[Demo](https://subhadipsinha722133-6czxjynlrcg24rua5bwakx.streamlit.app/)
